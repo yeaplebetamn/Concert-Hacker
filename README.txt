@@ -1,0 +1,1 @@
+This is a copy of source code for the Concert Hack Alexa skill made at RamHacks 2017

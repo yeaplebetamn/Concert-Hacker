@@ -1,0 +1,56 @@
+{
+  "intents": [
+    {
+      "intent": "AMAZON.ResumeIntent"
+    },
+    {
+      "intent": "AMAZON.PauseIntent"
+    },
+    {
+      "intent": "GetConcertsNearMe"
+    },
+    {
+      "intent": "GetConcerts"
+    },
+    {
+      "slots": [
+        {
+          "name": "artist",
+          "type": "AMAZON.Musician"
+        }
+      ],
+      "intent": "GetConcertsByArtist"
+    },
+    {
+      "slots": [
+        {
+          "name": "date",
+          "type": "AMAZON.DATE"
+        }
+      ],
+      "intent": "GetConcertsOnDate"
+    },
+    {
+      "slots": [
+        {
+          "name": "city",
+          "type": "AMAZON.US_CITY"
+        }
+      ],
+      "intent": "GetConcertsInCity"
+    },
+    {
+      "slots": [
+        {
+          "name": "artist",
+          "type": "AMAZON.Musician"
+        },
+        {
+          "name": "city",
+          "type": "AMAZON.US_CITY"
+        }
+      ],
+      "intent": "GetConcertsByArtistInCity"
+    }
+  ]
+}

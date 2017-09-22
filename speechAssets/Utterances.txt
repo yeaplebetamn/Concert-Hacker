@@ -1,0 +1,53 @@
+GetConcerts are there any concerts
+GetConcerts are there any concerts nearby
+GetConcerts find concerts
+GetConcerts find concerts nearby
+GetConcerts a concert
+GetConcerts a concert nearby
+GetConcerts find a concert
+GetConcerts find a concert nearby
+GetConcerts find some concerts
+GetConcerts find some concerts nearby
+GetConcerts concerts
+GetConcerts concerts nearby
+GetConcerts concert
+GetConcerts concert nearby
+GetConcertsByArtist are there any concerts playing by {artist}
+GetConcertsByArtist are there any concerts by {artist}
+GetConcertsByArtist what concerts are playing by {artist}
+GetConcertsByArtist what concert is playing by {artist}
+GetConcertsByArtist concerts by {artist}
+GetConcertsByArtist concert by {artist}
+GetConcertsByArtist what concerts are by {artist}
+GetConcertsByArtist what concert is by {artist}
+GetConcertsByArtist tell me what concerts are playing by {artist}
+GetConcertsByArtist tell me about concerts by {artist}
+GetConcertsByArtist tell me {artist} concerts
+GetConcertsByArtist tell me {artist} concert
+GetConcertsByArtist where is {artist} playing
+GetConcertsByArtist where are {artist} playing
+GetConcertsOnDate what concerts are playing on {date}
+GetConcertsOnDate what concerts are playing this {date}
+GetConcertsOnDate what concerts are playing {date}
+GetConcertsOnDate are there any concerts on {date}
+GetConcertsOnDate is there a concert on {date}
+GetConcertsOnDate concerts {date}
+GetConcertsOnDate are there any concerts playing {date}
+GetConcertsOnDate are there any concerts on {date}
+GetConcertsOnDate are there any concerts {date}
+GetConcertsOnDate concerts playing on {date}
+GetConcertsInCity what concerts are playing in {city}
+GetConcertsInCity are there any concerts in {city}
+GetConcertsInCity tell me what concerts are playing in {city}
+GetConcertsInCity tell about concerts playing in {city}
+GetConcertsInCity tell about concerts in {city}
+GetConcertsInCity concerts in {city}
+GetConcertsInCity concerts playing in {city}
+GetConcertsByArtistInCity find concerts by {artist} in {city}
+GetConcertsByArtistInCity find a concert by {artist} in {city}
+GetConcertsByArtistInCity find concerts for {artist} in {city}
+GetConcertsByArtistInCity find a concert for {artist} in {city}
+GetConcertsByArtistInCity find concerts by {artist} at {city}
+GetConcertsByArtistInCity find a concert by {artist} at {city}
+GetConcertsByArtistInCity find concerts for {artist} at {city}
+GetConcertsByArtistInCity find a concert for {artist} at {city}
